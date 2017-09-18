@@ -7,5 +7,3 @@ raza
 raza
 false
 8
-new text is add here
-this should be added
